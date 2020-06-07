@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Practice Suite" duration-ms="26" started-at="2020-06-07T09:25:32Z" finished-at="2020-06-07T09:25:32Z">
+    <groups>
+    </groups>
+    <test name="practiceTests" duration-ms="26" started-at="2020-06-07T09:25:32Z" finished-at="2020-06-07T09:25:32Z">
+      <class name="com.manish.framework.SampleTest1">
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.manish.framework.SampleTest1@b684286]" name="f1" duration-ms="0" started-at="2020-06-07T09:25:32Z" finished-at="2020-06-07T09:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- com.manish.framework.SampleTest1 -->
+      <class name="com.manish.framework.sampleTest">
+        <test-method status="PASS" signature="testIt()[pri:0, instance:com.manish.framework.sampleTest@34ce8af7]" name="testIt" duration-ms="5" started-at="2020-06-07T09:25:32Z" finished-at="2020-06-07T09:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIt -->
+      </class> <!-- com.manish.framework.sampleTest -->
+    </test> <!-- practiceTests -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
